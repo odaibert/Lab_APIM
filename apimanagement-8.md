@@ -22,6 +22,7 @@ The following instructions demonstrate how to deploy the contents of this exampl
 
 To execute this solution you will need:
 
+- Azure API Mangement DevOps Toolkit [here](http://github.com/Azure/azure-api-management-devops-resource-kit)
 - Azure DevOps Account
 - An Azure DevOps Repo configured ([how to configure an Azure DevOps Repo](https://docs.microsoft.com/en-us/azure/devops/repos/get-started/sign-up-invite-teammates?view=azure-devops))
 - Three API Management deployed (DEV, QA and PROD) ([how to deploy a Create a new Azure API Management service instance](https://docs.microsoft.com/en-us/azure/api-management/get-started-create-service-instance))
