@@ -158,3 +158,6 @@ Now you will see your Release Pipeline like this:
 ![](Images/release-pipeline.png)
 
 By using a combination of manual deployment approvals, gates, and manual intervention within a release pipeline in Azure Pipelines, you can quickly and easily configure a release pipeline with all the control and auditing capabilities you require for your DevOps CI/CD processes. You will find more information on this [link](https://docs.microsoft.com/en-us/azure/devops/pipelines/release/deploy-using-approvals?view=azure-devops). 
+
+---
+[Home](README.md) | [Prev](apimanagement-7.md)
