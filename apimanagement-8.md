@@ -1,7 +1,7 @@
 THIS PART IS UNDER CONSTRUCTION. LAST UPDATE 06/15/2020.
 
 
-# API Management - Hands-on Lab Script - part 9
+# API Management - Hands-on Lab Script - part 8
 
 - [Part 1 - Create an API Management instance](apimanagement-1.md) 
 - [Part 2 - Developer Portal and Product Management](apimanagement-2.md) 
@@ -29,7 +29,7 @@ To execute this solution you will need:
 
 ## Architecture
 
-![](images/Architecture.png)
+![](Images/Architecture.png)
 
 This is one example of how to use Azure DevOps Repo and Azure DevOps Pipelines to enable a Continuous Integration and Continuous Deployment (CI/CD) for API\'s on an Azure API Management Service. There're other ways to do this, but this is a \"Keep it Simple\" to help you start.(Planning to have another version using Github and Github Actions soon).
 
